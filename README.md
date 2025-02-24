@@ -1,2 +1,1 @@
-# flask-weather-app
-A web app where users enter a city name, and it fetches real-time weather details.
+Enter the following URl "http://127.0.0.1:5000/" to view the web page.
